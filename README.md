@@ -1,6 +1,6 @@
 # ArtEra-Portfolio
 
-My recent Portfolio templet and Art Supplies site both at a site
+My recent Portfolio templet and Art Supplies site both at a sight
 
 ![Screenshot 2025-02-02 162920](https://github.com/user-attachments/assets/e7a5288d-64d4-4553-bbb7-fd8a4d57a9ec)
 
