@@ -1,4 +1,4 @@
-# ArtEra - Ary Supply Store 
+# ArtEra - ArtSupply Store 
 
 A website templet just using simple HTML and CSS
 
